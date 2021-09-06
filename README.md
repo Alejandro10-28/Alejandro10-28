@@ -4,7 +4,9 @@
 Hola yo soy Daniel Alejandro Rodriguez Solis
 - Soy estudiante del tecnologico
 - Futuro programador
-Contacto
+
+
+ Contacto:
 - Email[daniel.rodriguez19@tectijuana.edu.mx]
 
 | lunes                                        | martes                                       | miercoles                                    | jueves                                       | viernes                                      |
